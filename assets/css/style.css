@@ -103,7 +103,7 @@
     height: 100vh;
     margin-top: 70px;
     background: linear-gradient(rgba(10,10,10,0.7),rgba(10,10,10,0.7)), 
-    url('/PrimerProyecto/assets/img/Concierto.avif');
+    url("/PrimerProyecto/assets/img/Michael-Jackson.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
